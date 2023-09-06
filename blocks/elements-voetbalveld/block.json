@@ -1,0 +1,16 @@
+{
+  "name": "elements-voetbalveld",
+  "title": "Elements - Voetbalveld",
+  "description": "",
+  "category": "elements",
+  "icon": "insert",
+  "keywords": ["card"],
+  "supports": {
+    "mode": false,
+    "jsx": true
+  },
+  "acf": {
+    "mode": "preview",
+    "renderTemplate": "elements-voetbalveld.php"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "blok-nieuws",
+  "title": "Blok - Nieuws",
+  "description": "",
+  "category": "blokken",
+  "icon": "insert",
+  "keywords": ["blokken"],
+  "supports": {
+    "mode": false,
+    "jsx": true
+  },
+  "acf": {
+    "mode": "preview",
+    "renderTemplate": "blok-nieuws.php"
+  }
+}

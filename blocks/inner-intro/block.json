@@ -1,0 +1,16 @@
+{
+  "name": "inner-intro",
+  "title": "Inner Blocks - Intro",
+  "description": "",
+  "category": "innerblocks",
+  "icon": "insert-before",
+  "keywords": ["blokken", "tekst"],
+  "supports": {
+    "mode": false,
+    "jsx": true
+  },
+  "acf": {
+    "mode": "preview",
+    "renderTemplate": "inner-intro.php"
+  }
+}

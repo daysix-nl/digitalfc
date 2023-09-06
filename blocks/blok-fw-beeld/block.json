@@ -1,0 +1,18 @@
+{
+  "name": "blok-fw-beeld",
+  "title": "Blok - Full width beeld",
+  "description": "",
+  "category": "blokken",
+  "icon": "insert",
+  "keywords": [
+    "slider"
+  ],
+  "supports": {
+    "mode": false,
+    "jsx": true
+  },
+  "acf": {
+    "mode": "preview",
+    "renderTemplate": "blok-fw-beeld.php"
+  }
+}

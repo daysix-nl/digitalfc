@@ -1,0 +1,16 @@
+{
+  "name": "tussenkop-button",
+  "title": "Tussenkop - Button",
+  "description": "",
+  "category": "tussenkoppen",
+  "icon": "insert",
+  "keywords": ["blokken", "tekst"],
+  "supports": {
+    "mode": false,
+    "jsx": true
+  },
+  "acf": {
+    "mode": "preview",
+    "renderTemplate": "tussenkop-button.php"
+  }
+}

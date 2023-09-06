@@ -1,0 +1,16 @@
+{
+  "name": "navigatie-innerblocks",
+  "title": "Navigatie - Inner Blocks",
+  "description": "",
+  "category": "navigatie",
+  "icon": "insert",
+  "keywords": ["blokken", "tekst"],
+  "supports": {
+    "mode": false,
+    "jsx": true
+  },
+  "acf": {
+    "mode": "preview",
+    "renderTemplate": "navigatie-innerblocks.php"
+  }
+}

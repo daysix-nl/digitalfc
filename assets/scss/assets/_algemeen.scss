@@ -1,0 +1,40 @@
+html {
+  scroll-behavior: smooth;
+}
+
+// main {
+//   overflow-x: hidden;
+// }
+
+.text-p p {
+  margin-bottom: 30px;
+}
+
+// .text-p h3 {
+//   font-size: 20px;
+//   line-height: 30px;
+//   font-weight: 700;
+//   font-family: Poppins, sans-serif;
+//   margin-bottom: 30px;
+// }
+
+// .text-p h4 {
+//   font-size: 20px;
+//   line-height: 30px;
+//   font-weight: 700;
+//   font-family: Poppins, sans-serif;
+//   color: #e01f4e;
+// }
+
+.inner-text {
+  a {
+    color: #e01f4e;
+  }
+  ul {
+    list-style: disc;
+    margin-left: 20px;
+    li {
+      padding-left: 10px;
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "blok-cta-wedstrijdbespreking",
+  "title": "Blok - CTA Wedstrijdbespreking",
+  "description": "",
+  "category": "blokken",
+  "icon": "insert",
+  "keywords": [
+    "slider"
+  ],
+  "supports": {
+    "mode": false,
+    "jsx": true
+  },
+  "acf": {
+    "mode": "preview",
+    "renderTemplate": "blok-cta-wedstrijdbespreking.php"
+  }
+}

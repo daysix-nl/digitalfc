@@ -1,0 +1,16 @@
+{
+  "name": "inner-lijn",
+  "title": "Inner Blocks - Lijn",
+  "description": "",
+  "category": "innerblocks",
+  "icon": "insert-before",
+  "keywords": ["blokken", "tekst"],
+  "supports": {
+    "mode": false,
+    "jsx": true
+  },
+  "acf": {
+    "mode": "preview",
+    "renderTemplate": "inner-lijn.php"
+  }
+}

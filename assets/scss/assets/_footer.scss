@@ -1,0 +1,23 @@
+.hoverlink::before {
+  content: "";
+  display: inline-flex;
+  height: 2px;
+  background: #fff;
+  margin-right: 0px;
+  width: 0px;
+  transition: 0.5s;
+  margin-bottom: 3px;
+}
+
+a:hover .hoverlink::before {
+  content: "";
+  background: #fff;
+  width: 10px;
+  margin-right: 10px;
+  transition: 0.5s;
+}
+
+.hoverlink {
+  display: flex;
+  align-items: center;
+}

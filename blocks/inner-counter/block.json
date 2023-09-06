@@ -1,0 +1,16 @@
+{
+  "name": "inner-counter",
+  "title": "Inner Blocks - Counter",
+  "description": "",
+  "category": "innerblocks",
+  "icon": "insert-before",
+  "keywords": ["blokken", "tekst"],
+  "supports": {
+    "mode": false,
+    "jsx": true
+  },
+  "acf": {
+    "mode": "preview",
+    "renderTemplate": "inner-counter.php"
+  }
+}

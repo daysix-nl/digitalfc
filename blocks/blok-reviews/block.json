@@ -1,0 +1,16 @@
+{
+  "name": "blok-reviews",
+  "title": "Blok - Reviews",
+  "description": "",
+  "category": "blokken",
+  "icon": "insert",
+  "keywords": ["slider"],
+  "supports": {
+    "mode": false,
+    "jsx": true
+  },
+  "acf": {
+    "mode": "preview",
+    "renderTemplate": "blok-reviews.php"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "cards-werkwijze",
+  "title": "Cards - Werkwijze",
+  "description": "",
+  "category": "cards",
+  "icon": "insert",
+  "keywords": ["card"],
+  "supports": {
+    "mode": false,
+    "jsx": true
+  },
+  "acf": {
+    "mode": "preview",
+    "renderTemplate": "cards-werkwijze.php"
+  }
+}

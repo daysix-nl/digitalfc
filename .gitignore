@@ -1,0 +1,6 @@
+node_modules
+.DS_Store
+.prettierrc
+.sass-cache
+package-lock.json
+/assets/css/main.css.map

@@ -1,0 +1,16 @@
+{
+  "name": "blok-quote",
+  "title": "Blok - Quote",
+  "description": "",
+  "category": "blokken",
+  "icon": "insert",
+  "keywords": ["text"],
+  "supports": {
+    "mode": false,
+    "jsx": true
+  },
+  "acf": {
+    "mode": "preview",
+    "renderTemplate": "blok-quote.php"
+  }
+}

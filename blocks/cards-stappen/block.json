@@ -1,0 +1,16 @@
+{
+  "name": "cards-stappen",
+  "title": "Cards - Stappen",
+  "description": "",
+  "category": "cards",
+  "icon": "insert",
+  "keywords": ["card"],
+  "supports": {
+    "mode": false,
+    "jsx": true
+  },
+  "acf": {
+    "mode": "preview",
+    "renderTemplate": "cards-stappen.php"
+  }
+}

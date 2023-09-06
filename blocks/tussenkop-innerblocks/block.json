@@ -1,0 +1,16 @@
+{
+  "name": "tussenkop-innerblocks",
+  "title": "Tussenkop - Inner Blocks",
+  "description": "",
+  "category": "tussenkoppen",
+  "icon": "insert",
+  "keywords": ["blokken", "tekst"],
+  "supports": {
+    "mode": false,
+    "jsx": true
+  },
+  "acf": {
+    "mode": "preview",
+    "renderTemplate": "tussenkop-innerblocks.php"
+  }
+}

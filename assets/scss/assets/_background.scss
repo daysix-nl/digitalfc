@@ -1,0 +1,55 @@
+$triangle: 120px;
+$height: 240px;
+
+
+.bg-hero-home-under {
+  background: rgb(75, 6, 9);
+  background: linear-gradient(120deg, rgba(75, 6, 9, 1) 0%, rgba(0, 0, 0, 1) 30%, rgba(0, 0, 0, 1) 100%);
+}
+
+.bg-hero-page {
+  background: rgb(0, 0, 0);
+  background: linear-gradient(135deg,
+      rgba(0, 0, 0, 0) 65%,
+      rgba(233, 32, 79, 1) 65%)
+}
+
+.bg-hero-home {
+  background: rgb(0, 0, 0);
+  background: linear-gradient(135deg,
+      rgba(0, 0, 0, 0) 57%,
+      rgba(233, 32, 79, 1) 57%);
+
+
+
+  .triangle {
+    display: inline-block;
+    margin: 0 0;
+    vertical-align: middle;
+    width: $height;
+    height: $height;
+    border-bottom: solid $triangle #000;
+    border-right: solid $triangle #000;
+    border-left: solid $triangle transparent;
+    border-top: solid $triangle transparent;
+  }
+}
+
+.bg-about-me {
+  background: rgb(233, 32, 79);
+  background: linear-gradient(125deg, rgb(233, 32, 79) 38%, rgb(0, 0, 0) 38%);
+}
+
+
+body.page {
+  background-color: #222222;
+}
+
+
+.bg-black .text-black {
+  color: #fff !important;
+}
+
+.bg-donkergrijs .text-black {
+  color: #fff !important;
+}

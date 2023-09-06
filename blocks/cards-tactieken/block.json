@@ -1,0 +1,16 @@
+{
+  "name": "cards-tactieken",
+  "title": "Cards - Tactieken",
+  "description": "",
+  "category": "cards",
+  "icon": "insert",
+  "keywords": ["card"],
+  "supports": {
+    "mode": false,
+    "jsx": true
+  },
+  "acf": {
+    "mode": "preview",
+    "renderTemplate": "cards-tactieken.php"
+  }
+}
